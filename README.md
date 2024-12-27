@@ -1,0 +1,2 @@
+# HBG
+Heroes Battleground Scripts
